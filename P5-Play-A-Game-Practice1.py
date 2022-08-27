@@ -1,9 +1,4 @@
 
-# KDeaneP5
-# Programmer: Kyrsti Deane
-# kdeane1@cnm.edu
-# Purpose: write a program to play rock, paper, scissors with the user
-
 # invite the user to play a friendly game
 print('Hello, would you like to play a game of rock, papper, scissors with me?')
 play_game = input('Select Y for yes or N for no: ' )
@@ -36,7 +31,6 @@ else:
         user_choice = 'scissors'
 
 # randomly generate the computer's choice
-
 import random
 computer_choice = random.randint(1, 3)
 
@@ -49,7 +43,6 @@ else:
         break
 
 # define the winner
-
 def winner (user_choice, comp_choice):
     if user_choice == computer_choice:
         return "Tie"
