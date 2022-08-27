@@ -1,9 +1,4 @@
 
-# KDeaneP5
-# Programmer: Kyrsti Deane
-# kdeane1@cnm.edu
-# Purpose: write a program to play rock, paper, scissors with the user
-
 # invite the user to play a friendly game
 'Y' == 'y' == 'yes'
 'N' == 'n' == 'no'
