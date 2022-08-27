@@ -1,7 +1,3 @@
-# KDeaneP5
-# Programmer: Kyrsti Deane
-# email: kdeane1@cnm.edu
-# Purpose: PythonP5 - Rock, Paper, Scissors
 
 import random
 choices = ("rock", "paper", "scissors")
